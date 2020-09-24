@@ -1,4 +1,4 @@
-Bien -> Main con punto inicial de la app 
+Bin -> Main con punto inicial de la app 
 
 Lib -> paquetes.dart , crear funciones para importar y utilizar
 
