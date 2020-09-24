@@ -1,0 +1,12 @@
+Bien -> Main con punto inicial de la app 
+
+Lib -> paquetes.dart , crear funciones para importar y utilizar
+
+test -> pruebas unitarias
+
+analysis -> reglas de como escribir el link igual al jslink
+
+changelog -> versionamiento de la app
+
+pubspeck -> como fue generada la app
+
